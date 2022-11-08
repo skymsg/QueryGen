@@ -1,2 +1,2 @@
 # sql-ide
-web based ide for SQL ( Clickhouse、MaxCompute )
+build SQL (for Clickhouse、MaxCompute ) with Web UI
